@@ -8,7 +8,7 @@ A couple of things about the person behind this account:
 - 🔭 Working on [EconShelf](http://econshelf.notion.site) - an open-source repository of econ-related opportunities and contents.
 - 🌱 I have a long way to go, so **if you have any feedback** on what you see on this profile, **please contact me**!
 
-My main interests are **monetary economics** (I think), but I'm always on the lookout for new things that might interest me.
+My main interests are **macroeconomics** and **monetary economics** (I think), but I'm always on the lookout for new things that might interest me.
 
 <!--
 **stfgrz/stfgrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
