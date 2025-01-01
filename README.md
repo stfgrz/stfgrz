@@ -1,4 +1,4 @@
-## Hey, I'm Stefano Graziosi
+## Hey, I'm Stef
 
 ### Thanks for stopping by, and welcome to my profile!
 
